@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" role="img" aria-label="Profile image placeholder">
+  <rect width="480" height="480" fill="#E7F1FB"/>
+  <circle cx="240" cy="188" r="78" fill="#0B2545"/>
+  <path d="M96 420c18-78 72-118 144-118s126 40 144 118" fill="#0B2545"/>
+  <text x="240" y="202" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#E7F1FB">AS</text>
+</svg>
